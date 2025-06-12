@@ -3,10 +3,9 @@
 This project fine-tunes the ECAPA-TDNN model from [SpeechBrain](https://speechbrain.readthedocs.io/) to classify Mandarin- and Korean-accented English speech using the L2-ARCTIC dataset.
 
 ## 📁 Project Structure
-- `data`- Korean and Mandarin accent wav
 - `train.json`, `valid.json`, `test.json` – data splits with accent labels
-- `train.py` – training script (based on SpeechBrain tutorial)
-- `conf/` – YAML configuration files
+-  `train.py`: the main code file, outlines the entire training process.
+- `train.yaml`: the hyperparameters file, sets all parameters of execution.
 - `confusion_matrix.png` – confusion matrix visualization
 
 ## 🛠 Setup
