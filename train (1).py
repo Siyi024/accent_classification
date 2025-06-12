@@ -361,14 +361,14 @@ labels = ['Mandarin', 'Korean']
 if sb.utils.distributed.if_main_process():
     from sklearn.metrics import classification_report, accuracy_score
 
-    # 🔴 计算混淆矩阵
+    # caculate confusionmatrix
     disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=labels)
     disp.plot(cmap=plt.cm.Blues)
     plt.title("Confusion Matrix")
     plt.savefig("confusion_matrix.png")
     plt.show()
 
-    # 🔴 统计指标
+    # statistical index
     acc = accuracy_score(y_true, y_pred)
     print(f"Overall Accuracy: {acc:.4f}")
 
@@ -376,7 +376,7 @@ if sb.utils.distributed.if_main_process():
     report = classification_report(y_true, y_pred, target_names=labels)
     print(report)
 
-    # 🔴 保存文本报告（可选）
+    # save report
     with open("classification_report.txt", "w") as f:
         f.write(f"Overall Accuracy: {acc:.4f}\n\n")
         f.write(report)
