@@ -1,0 +1,3622 @@
+{
+  "HKK_arctic_b0045": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0045.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0337": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0337.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0448": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0448.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0408": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0408.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0214": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0214.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0412": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0412.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0372": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0372.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0453": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0453.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0291": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0291.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0226": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0226.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0294": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0294.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0382": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0382.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0130": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0130.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0021": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0021.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0267": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0267.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0304": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0304.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0004": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0004.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0387": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0387.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0111": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0111.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0398": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0398.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0298": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0298.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0084": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0084.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0208": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0208.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0046": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0046.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0133": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0133.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0592": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0592.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0213": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0213.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0101": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0101.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0516": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0516.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0413": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0413.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0298": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0298.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0130": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0130.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0073": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0073.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0489": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0489.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0573": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0573.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0257": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0257.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0030": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0030.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0175": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0175.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0418": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0418.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0547": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0547.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0507": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0507.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0564": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0564.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0152": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0152.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0332": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0332.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0205": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0205.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0390": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0390.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0166": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0166.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0442": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0442.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0432": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0432.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0186": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0186.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0464": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0464.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0034": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0034.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0140": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0140.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0252": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0252.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0441": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0441.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0381": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0381.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0527": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0527.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0367": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0367.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0057": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0057.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0496": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0496.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0435": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0435.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0274": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0274.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0428": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0428.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0395": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0395.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0135": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0135.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0260": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0260.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0240": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0240.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0521": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0521.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0354": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0354.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0253": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0253.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0341": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0341.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0012": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0012.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0221": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0221.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0089": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0089.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0143": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0143.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0037": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0037.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0004": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0004.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0518": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0518.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0129": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0129.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0195": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0195.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0468": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0468.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0467": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0467.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0441": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0441.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0510": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0510.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0186": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0186.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0522": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0522.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0543": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0543.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0464": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0464.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0438": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0438.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0377": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0377.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0384": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0384.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0257": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0257.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0458": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0458.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0120": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0120.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0435": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0435.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0450": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0450.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0073": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0073.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0573": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0573.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0258": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0258.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0114": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0114.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0120": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0120.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0214": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0214.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0031": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0031.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0429": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0429.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0423": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0423.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0414": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0414.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0162": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0162.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0340": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0340.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0233": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0233.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0450": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0450.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0520": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0520.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0514": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0514.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0161": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0161.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0058": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0058.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0181": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0181.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0297": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0297.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0528": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0528.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0033": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0033.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0264": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0264.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0503": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0503.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0032": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0032.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0180": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0180.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0500": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0500.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0271": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0271.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0087": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0087.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0159": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0159.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0334": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0334.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0326": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0326.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0523": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0523.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0357": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0357.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0300": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0300.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0284": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0284.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0268": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0268.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0238": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0238.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0572": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0572.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0159": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0159.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0277": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0277.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0169": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0169.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0067": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0067.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0524": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0524.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0321": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0321.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0490": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0490.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0250": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0250.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0354": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0354.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0042": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0042.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0484": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0484.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0025": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0025.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0519": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0519.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0351": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0351.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0028": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0028.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0501": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0501.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0304": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0304.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0503": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0503.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0305": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0305.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0399": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0399.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0436": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0436.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0183": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0183.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0284": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0284.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0057": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0057.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0389": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0389.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0272": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0272.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0576": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0576.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0263": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0263.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0300": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0300.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0017": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0017.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0004": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0004.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0374": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0374.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0133": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0133.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0081": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0081.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0091": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0091.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0442": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0442.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0174": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0174.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0164": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0164.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0480": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0480.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0356": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0356.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0584": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0584.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0127": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0127.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0549": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0549.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0250": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0250.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0578": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0578.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0152": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0152.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0575": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0575.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0288": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0288.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0282": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0282.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0452": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0452.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0494": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0494.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0222": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0222.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0220": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0220.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0324": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0324.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0490": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0490.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0319": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0319.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0277": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0277.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0233": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0233.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0377": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0377.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0560": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0560.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0384": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0384.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0416": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0416.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0403": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0403.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0466": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0466.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0573": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0573.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0403": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0403.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0391": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0391.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0411": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0411.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0535": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0535.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0107": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0107.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0449": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0449.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0310": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0310.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0317": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0317.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0321": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0321.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0510": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0510.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0447": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0447.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0518": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0518.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0116": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0116.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0053": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0053.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0060": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0060.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0246": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0246.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0347": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0347.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0484": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0484.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0539": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0539.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0335": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0335.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0508": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0508.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0235": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0235.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0349": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0349.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0038": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0038.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0307": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0307.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0498": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0498.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0289": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0289.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0043": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0043.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0479": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0479.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0391": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0391.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0219": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0219.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0579": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0579.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0296": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0296.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0056": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0056.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0169": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0169.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0236": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0236.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0355": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0355.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0458": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0458.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0358": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0358.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0103": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0103.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0150": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0150.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0131": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0131.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0581": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0581.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0170": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0170.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0228": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0228.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0304": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0304.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0059": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0059.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0342": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0342.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0544": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0544.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0451": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0451.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0364": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0364.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0305": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0305.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0297": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0297.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0405": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0405.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0027": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0027.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0054": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0054.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0148": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0148.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0271": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0271.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0393": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0393.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0451": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0451.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0335": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0335.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0522": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0522.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0466": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0466.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0248": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0248.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0034": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0034.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0004": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0004.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0405": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0405.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0297": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0297.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0267": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0267.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0119": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0119.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0333": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0333.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0073": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0073.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0537": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0537.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0185": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0185.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0089": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0089.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0461": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0461.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0225": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0225.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0508": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0508.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0002": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0002.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0406": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0406.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0359": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0359.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0099": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0099.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0549": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0549.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0024": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0024.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0096": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0096.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0089": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0089.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0530": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0530.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0265": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0265.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0036": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0036.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0193": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0193.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0463": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0463.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0283": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0283.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0501": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0501.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0369": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0369.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0086": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0086.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0495": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0495.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0191": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0191.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0545": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0545.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0363": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0363.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0589": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0589.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0179": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0179.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0454": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0454.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0018": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0018.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0022": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0022.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0491": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0491.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0333": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0333.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0536": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0536.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0392": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0392.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0496": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0496.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0002": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0002.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0377": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0377.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0009": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0009.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0552": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0552.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0319": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0319.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0246": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0246.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0195": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0195.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0366": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0366.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0102": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0102.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0257": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0257.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0440": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0440.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0211": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0211.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0279": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0279.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0182": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0182.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0383": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0383.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0304": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0304.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0378": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0378.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0161": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0161.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0492": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0492.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0047": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0047.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0171": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0171.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0076": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0076.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0277": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0277.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0537": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0537.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0210": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0210.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0263": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0263.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0222": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0222.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0051": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0051.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0532": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0532.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0278": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0278.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0108": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0108.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0460": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0460.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0136": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0136.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0292": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0292.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0255": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0255.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0218": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0218.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0441": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0441.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0015": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0015.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0052": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0052.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0180": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0180.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0243": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0243.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0108": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0108.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0283": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0283.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0197": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0197.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0466": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0466.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0536": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0536.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0296": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0296.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0380": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0380.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0534": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0534.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0518": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0518.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0072": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0072.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0092": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0092.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0008": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0008.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0030": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0030.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0367": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0367.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0400": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0400.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0529": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0529.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0086": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0086.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0342": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0342.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0017": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0017.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0514": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0514.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0317": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0317.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0189": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0189.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0001": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0001.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0270": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0270.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0011": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0011.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0374": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0374.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0169": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0169.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0414": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0414.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0183": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0183.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0191": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0191.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0099": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0099.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0262": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0262.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0041": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0041.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0129": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0129.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0397": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0397.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0463": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0463.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0366": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0366.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0520": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0520.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0302": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0302.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0070": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0070.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0566": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0566.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0029": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0029.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0128": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0128.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0320": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0320.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0189": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0189.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0066": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0066.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0102": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0102.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0172": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0172.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0178": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0178.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0230": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0230.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0057": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0057.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0041": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0041.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0329": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0329.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0432": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0432.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0149": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0149.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0052": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0052.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0278": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0278.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0174": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0174.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0368": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0368.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0226": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0226.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0007": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0007.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0495": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0495.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0028": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0028.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0388": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0388.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0280": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0280.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0171": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0171.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0344": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0344.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0593": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0593.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0048": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0048.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0302": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0302.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0316": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0316.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0350": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0350.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0157": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0157.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0451": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0451.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0042": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0042.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0071": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0071.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0447": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0447.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0513": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0513.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0442": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0442.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0025": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0025.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0050": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0050.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0224": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0224.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0240": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0240.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0202": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0202.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0265": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0265.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0146": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0146.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0367": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0367.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0088": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0088.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0315": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0315.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0248": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0248.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0187": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0187.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0051": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0051.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0466": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0466.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0287": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0287.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0558": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0558.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0478": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0478.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0296": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0296.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0044": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0044.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0094": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0094.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0247": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0247.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0189": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0189.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0453": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0453.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0328": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0328.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0365": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0365.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0409": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0409.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0072": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0072.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0141": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0141.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0309": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0309.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0152": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0152.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0469": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0469.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0217": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0217.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0402": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0402.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0509": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0509.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0371": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0371.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0102": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0102.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0103": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0103.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0475": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0475.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0570": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0570.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0166": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0166.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0339": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0339.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0476": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0476.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0527": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0527.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0189": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0189.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0144": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0144.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0578": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0578.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0164": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0164.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0473": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0473.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0377": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0377.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0522": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0522.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0335": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0335.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0003": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0003.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0093": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0093.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0526": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0526.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0093": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0093.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0417": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0417.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0533": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0533.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0440": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0440.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0363": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0363.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0337": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0337.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0243": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0243.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0109": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0109.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0210": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0210.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0084": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0084.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0078": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0078.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0119": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0119.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0500": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0500.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0079": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0079.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0323": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0323.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0068": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0068.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0354": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0354.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0483": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0483.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0204": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0204.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0074": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0074.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0086": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0086.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0013": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0013.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0111": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0111.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0473": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0473.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0300": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0300.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0442": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0442.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0461": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0461.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0097": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0097.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0184": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0184.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0360": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0360.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0364": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0364.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0490": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0490.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0084": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0084.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0439": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0439.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0523": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0523.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0023": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0023.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0157": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0157.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0035": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0035.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0225": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0225.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0095": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0095.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0154": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0154.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0461": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0461.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0125": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0125.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0082": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0082.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0386": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0386.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0174": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0174.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_b0323": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0323.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0150": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0150.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0517": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0517.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0072": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0072.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0194": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0194.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0083": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0083.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0238": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0238.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0215": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0215.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0410": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0410.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0378": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0378.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0229": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0229.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0333": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0333.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0519": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0519.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0087": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0087.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0168": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0168.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0106": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0106.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0446": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0446.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0223": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0223.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0385": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0385.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0087": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0087.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0447": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0447.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0383": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0383.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0410": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0410.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0478": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0478.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0586": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0586.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0473": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0473.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0179": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0179.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0283": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0283.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0360": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0360.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0073": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0073.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0076": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0076.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0379": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0379.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0030": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0030.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0524": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0524.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0049": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0049.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0160": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0160.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0358": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0358.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0234": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0234.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0196": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0196.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0352": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0352.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0543": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0543.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0442": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0442.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0418": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0418.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0281": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0281.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0469": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0469.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0351": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0351.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0484": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0484.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0445": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0445.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0032": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0032.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0141": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0141.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0383": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0383.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0125": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0125.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0378": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0378.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0157": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0157.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0457": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0457.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0474": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0474.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0172": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0172.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0412": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0412.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0334": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0334.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0486": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0486.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0001": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0001.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0108": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0108.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0036": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0036.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0071": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0071.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0300": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0300.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0472": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0472.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0389": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0389.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0524": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0524.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0314": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0314.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0017": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0017.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0283": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0283.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0009": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0009.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0303": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0303.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0257": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0257.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0270": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0270.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0318": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0318.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0497": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0497.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0262": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0262.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0131": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0131.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0458": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0458.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0292": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0292.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0392": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0392.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0498": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0498.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0432": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0432.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0492": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0492.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0196": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0196.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0026": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0026.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0143": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0143.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0291": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0291.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0143": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0143.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0178": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0178.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0242": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0242.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0402": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0402.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0115": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0115.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0456": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0456.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0458": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0458.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0481": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0481.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0473": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0473.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0190": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0190.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0127": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0127.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0489": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0489.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0520": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0520.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0029": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0029.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0577": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0577.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0397": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0397.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0136": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0136.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0290": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0290.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0129": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0129.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0425": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0425.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0009": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0009.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0132": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0132.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0194": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0194.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0255": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0255.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0490": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0490.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0499": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0499.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0397": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0397.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0253": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0253.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0345": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0345.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0028": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0028.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0148": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0148.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_b0307": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0307.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0509": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0509.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0361": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0361.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0350": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0350.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0244": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0244.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0216": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0216.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_b0046": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0046.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0107": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0107.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0476": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0476.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0506": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0506.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0251": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0251.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0043": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0043.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_a0559": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0559.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0383": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0383.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0093": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0093.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0109": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0109.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0065": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0065.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0025": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0025.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_a0019": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0019.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0124": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0124.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0227": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0227.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0249": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0249.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0447": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0447.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0420": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0420.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0095": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0095.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0037": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0037.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0571": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0571.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0295": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0295.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0460": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0460.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0096": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0096.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0216": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0216.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0090": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0090.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_a0405": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0405.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_a0056": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_a0056.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_a0185": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0185.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0009": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0009.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0190": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0190.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_b0074": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_b0074.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0216": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0216.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0416": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0416.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_b0148": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0148.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0007": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0007.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0440": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0440.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0586": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0586.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0547": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0547.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0536": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0536.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0138": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0138.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0502": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0502.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_b0233": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0233.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "NCC_arctic_b0370": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0370.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0520": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0520.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "BWC_arctic_a0128": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0128.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_b0448": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_b0448.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "LXC_arctic_a0327": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0327.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0226": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0226.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "TXHC_arctic_a0252": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0252.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0304": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0304.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_a0544": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_a0544.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YDCK_arctic_b0128": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_b0128.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_b0532": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_b0532.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YKWK_arctic_a0312": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0312.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0009": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0009.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_a0259": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_a0259.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HJK_arctic_b0073": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0073.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0317": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0317.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "NCC_arctic_a0257": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/NCC/wav/arctic_a0257.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_a0012": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_a0012.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "YDCK_arctic_a0419": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YDCK/wav/arctic_a0419.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HKK_arctic_b0221": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0221.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "TXHC_arctic_b0120": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/TXHC/wav/arctic_b0120.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "BWC_arctic_b0468": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/BWC/wav/arctic_b0468.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "HKK_arctic_b0116": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HKK/wav/arctic_b0116.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "HJK_arctic_b0262": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/HJK/wav/arctic_b0262.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  },
+  "LXC_arctic_a0521": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/LXC/wav/arctic_a0521.wav",
+    "length": 3.6,
+    "accent": "Mandarin"
+  },
+  "YKWK_arctic_a0356": {
+    "wav": "/scratch/s5987938/accent_classification_project/east_asian_subset/YKWK/wav/arctic_a0356.wav",
+    "length": 3.6,
+    "accent": "Korean"
+  }
+}
